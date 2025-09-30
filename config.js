@@ -1,9 +1,9 @@
 module.exports = {
-  OWNER_IDS: ["1203605618745933880"], // Bot owner ID's
-  SUPPORT_SERVER: "https://discord.gg/btQJeGKKHJ", // Your bot support server
+  OWNER_IDS: ["1286331375204565024"], // Bot owner ID's
+  SUPPORT_SERVER: "https://discord.gg/bQvJpFxAAa", // Your bot support server
   PREFIX_COMMANDS: {
     ENABLED: true, // Enable/Disable prefix commands
-    DEFAULT_PREFIX: "e!", // Default prefix for the bot
+    DEFAULT_PREFIX: "b!", // Default prefix for the bot
   },
   INTERACTIONS: {
     SLASH: true, // Should the interactions be enabled
